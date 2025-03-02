@@ -63,7 +63,7 @@ would look for this declaration and handle the content differently depending on
 what it found. These days, every current browser is compatible with HTML5, and
 `DOCTYPE` is mainly used to tell the browser to render the page in standards
 compliant mode.
-
+ 
 The `DOCTYPE` element, as with all HTML, starts with a `<` and ends with a `>`.
 Uniquely, the `DOCTYPE` tag starts with an exclamation point, `!`, followed by
 `DOCTYPE`, then specifies which version of HTML we want to use. In HTML5, we
